@@ -32,13 +32,11 @@ This portfolio website is built using HTML, CSS, and JavaScript. It features var
 
 To view the website, simply open the `index.html` file in a web browser. You can also host it on a web server to make it accessible online.
 
-## Contributing
 
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. I welcome any improvements or suggestions!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed.
 
 
 
