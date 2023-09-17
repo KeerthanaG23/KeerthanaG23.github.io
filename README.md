@@ -8,7 +8,6 @@ This repository contains the source code for my personal portfolio website. The 
 - [Sections](#sections)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -32,11 +31,6 @@ This portfolio website is built using HTML, CSS, and JavaScript. It features var
 
 To view the website, simply open the `index.html` file in a web browser. You can also host it on a web server to make it accessible online.
 
-
-
-## License
-
-This project is licensed.
 
 
 
